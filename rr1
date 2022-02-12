@@ -3,4 +3,7 @@ I have cloned the remote repository file to my local repository and I am changin
 Now I am going to clone the remote repository to my local repository.
 I have created remote repository and I have added a file to it.
 I have cloned the remote repository file to my local repository and I am changing it now to see the difference.
-
+Git is a local repository
+GitHub is a remote repository
+GitHub is a hosting service for git respositories.
+GitHub is a sevice, which acts a remote reposiroty.
